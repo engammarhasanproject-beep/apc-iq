@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Ammar Project Consultancy</title>
+  <meta name="description" content="Engineering • Project Management • Construction Documentation" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header class="header">
+    <div class="container header__row">
+      <div class="brand">
+        <div class="brand__name">Ammar Project Consultancy</div>
+        <div class="brand__tag">Engineering • Project Management • Construction Documentation</div>
+      </div>
+
+      <nav class="nav">
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#industries">Industries</a>
+        <a href="#approach">Approach</a>
+        <a class="btn btn--small" href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero__grid">
+        <div>
+          <h1>We don’t just manage projects; we engineer excellence that lasts.</h1>
+          <p class="lead">
+            Independent engineering and project management support delivering precise, compliant
+            documentation and planning solutions for contractors, consultants, and owners.
+          </p>
+          <div class="hero__cta">
+            <a class="btn" href="#contact">Get in touch</a>
+            <a class="btn btn--ghost" href="#services">View services</a>
+          </div>
+        </div>
+
+        <div class="card card--hero">
+          <h3>Quick Contacts</h3>
+          <p><strong>Phone:</strong> +964 751 769 6175</p>
+          <p><strong>Email:</strong> eng.ammar.hasan.project@gmail.com</p>
+          <p><strong>Location:</strong> Chary Zayton – Suli – Iraq</p>
+          <a class="btn btn--full" target="_blank"
+             href="https://wa.me/9647517696175">WhatsApp</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <div class="container">
+        <h2>About</h2>
+        <p>
+          Ammar Project Consultancy provides high-quality technical documentation, planning support,
+          and construction consultancy across oil & gas, infrastructure, industrial, and building sectors.
+        </p>
+
+        <div class="grid2">
+          <div class="card">
+            <h3>Mission</h3>
+            <p>
+              To provide precise, professional, and technically strong engineering documentation and
+              project management services that enhance safety, efficiency, and compliance.
+            </p>
+          </div>
+          <div class="card">
+            <h3>Vision</h3>
+            <p>
+              To become a trusted regional consultancy recognized for technical accuracy, discipline,
+              and commitment to project success.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="services" class="section section--alt">
+      <div class="container">
+        <h2>Services</h2>
+
+        <div class="grid3">
+          <div class="card">
+            <h3>Engineering Documentation</h3>
+            <ul>
+              <li>Method Statements / Execution Methodologies</li>
+              <li>Work Procedures / Execution Plans</li>
+              <li>Risk Assessments (RA) / JHA</li>
+              <li>ITPs / QA-QC procedures</li>
+              <li>Material Submittals / Technical reviews</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h3>HSE Documentation</h3>
+            <ul>
+              <li>HSE Management Plans</li>
+              <li>Emergency Response Plans</li>
+              <li>PTW Procedures / Fire Safety Plans</li>
+              <li>Risk Registers / Toolbox Talks</li>
+              <li>Safety guidelines & training materials</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h3>QA/QC Support</h3>
+            <ul>
+              <li>Project Quality Plans</li>
+              <li>Checklists (civil/MEP/arch)</li>
+              <li>NCR templates & logs</li>
+              <li>Testing requirements & schedules</li>
+              <li>Material approval procedures</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h3>Planning & Scheduling</h3>
+            <ul>
+              <li>Level 3/4 Schedules (Primavera P6)</li>
+              <li>WBS / Histograms</li>
+              <li>Progress measurement / Earned value</li>
+              <li>Recovery schedules / Lookaheads</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h3>Commercial & Claims</h3>
+            <ul>
+              <li>Variation Orders (technical & cost)</li>
+              <li>EOT / cost impact analysis</li>
+              <li>BOQ verification & quantity validation</li>
+              <li>Procurement plans / vendor evaluation</li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h3>Remote / On-call Support</h3>
+            <ul>
+              <li>Fast turnaround documentation</li>
+              <li>Revisions & client coordination</li>
+              <li>Execution guidance & close-out support</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="industries" class="section">
+      <div class="container">
+        <h2>Industries</h2>
+        <div class="chips">
+          <span class="chip">Oil & Gas</span>
+          <span class="chip">Petrochemical</span>
+          <span class="chip">Infrastructure & Roadworks</span>
+          <span class="chip">Buildings & Commercial</span>
+          <span class="chip">Industrial Workshops</span>
+          <span class="chip">Mechanical & Electrical</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="approach" class="section section--alt">
+      <div class="container">
+        <h2>Our Approach</h2>
+        <ol class="steps">
+          <li><strong>Understand the scope</strong> — review drawings, specs, and standards.</li>
+          <li><strong>Tailored documentation</strong> — based on field conditions and client requirements.</li>
+          <li><strong>Compliance review</strong> — align with ASTM, ACI, BS, ISO, and project specs.</li>
+          <li><strong>Submission & coordination</strong> — revisions, clarifications, and updates.</li>
+          <li><strong>Continuous support</strong> — guidance during execution and close-out.</li>
+        </ol>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact</h2>
+
+        <div class="grid2">
+          <div class="card">
+            <p><strong>Phone:</strong> +964 751 769 6175</p>
+            <p><strong>Email:</strong> eng.ammar.hasan.project@gmail.com</p>
+            <p><strong>Location:</strong> Chary Zayton – Suli – Iraq</p>
+
+            <div class="contact__buttons">
+              <a class="btn" target="_blank" href="https://wa.me/9647517696175">WhatsApp</a>
+              <a class="btn btn--ghost" href="mailto:eng.ammar.hasan.project@gmail.com">Email</a>
+            </div>
+          </div>
+
+          <form class="card" action="https://formspree.io/f/your_form_id" method="POST">
+            <h3>Send a message</h3>
+            <label>Name
+              <input name="name" required />
+            </label>
+            <label>Email
+              <input name="email" type="email" required />
+            </label>
+            <label>Message
+              <textarea name="message" rows="5" required></textarea>
+            </label>
+            <button class="btn btn--full" type="submit">Submit</button>
+            <p class="hint">Tip: replace <code>your_form_id</code> with your Formspree ID (free).</p>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__row">
+      <div>© <span id="y"></span> Ammar Project Consultancy</div>
+      <div class="muted">Arabic version can be added later (bilingual-ready structure).</div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
